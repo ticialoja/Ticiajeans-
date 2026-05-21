@@ -1,0 +1,6 @@
+{
+  "name": "Ticia Jeans",
+  "description": "Exiba e navegue pelos produtos da loja Ticia Jeans em uma interface moderna e inteligente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
